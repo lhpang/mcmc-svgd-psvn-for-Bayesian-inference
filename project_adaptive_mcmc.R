@@ -10,6 +10,14 @@ library(MCMCvis)
 library(GGally)
 library(microbenchmark)
 
+
+
+###test
+
+
+
+
+
 ###################################logistic model with gaussian prior##################
 logisticModel <- function(b, X){
   if(length(X)>0){
